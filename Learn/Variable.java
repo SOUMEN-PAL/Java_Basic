@@ -8,6 +8,8 @@ public class Variable {
         long views = 100000000;
         char c = 'A';
 
+        System.out.println(isValid+""+marks+pi+div+views+c+"");
+
     }
 
     

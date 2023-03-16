@@ -17,9 +17,10 @@ public class InputScanner {
         System.out.println("Enter the decimal value");
         float f = s.nextFloat();
         System.out.println(f);
-
+        s.close();
         
     }
+
 
 }
 

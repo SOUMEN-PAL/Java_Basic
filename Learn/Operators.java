@@ -13,7 +13,10 @@ public class Operators {
         }
         else{
             System.out.println("Try again");
-        }   
+        } 
+        
+        
+        sc.close();
            
 
     }

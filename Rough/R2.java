@@ -2,7 +2,17 @@ package Rough;
 
 public class R2 {
     public static void main(String [] args){
-        System.out.println(~2);
+        int a = 5;
+        switch(a++){
+            case 5:
+                System.out.println("First");
+
+            case 6:
+                System.out.println(a++);
+                break;
+            case 7: 
+                System.out.println("Yes");
+        }
     }
     
 }

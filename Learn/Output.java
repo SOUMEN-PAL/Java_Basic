@@ -10,7 +10,9 @@ public class Output {
 
         // System.out.printf("%.2f",f);
 
-        System.out.println('a'+1);
+        System.out.println(x+c+s+f+y+"");
+
+        
 
 
     }

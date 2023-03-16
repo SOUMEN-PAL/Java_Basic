@@ -16,6 +16,8 @@ public class DayBeN {
             System.out.println(ans);
         }
 
+        sc.close();
+
 
     }
     
